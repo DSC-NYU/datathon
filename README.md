@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to the NYU DSC Datathon
+#### 11/20/20 2 p.m. - 11/21/20 5 p.m.
 
-You can use the [editor on GitHub](https://github.com/Data-Science-Club-NYU/website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Schedule
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### FAQ's
 
 ```markdown
 Syntax highlighted code block

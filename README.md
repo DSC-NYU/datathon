@@ -565,7 +565,7 @@ Since this is a remote hackathon, feel free to use whatever platform you like. Z
 <br>
 </details>
 
-dkjldkjflkdjlkf
+### Flyers
 
 
 <img src="datathon.png" alt="poster"/>

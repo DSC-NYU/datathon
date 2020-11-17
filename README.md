@@ -361,7 +361,6 @@ In association with Understood.org
 </table>
 
 <br>
-
 ### Contact Information
 
 <details>
@@ -399,6 +398,12 @@ In association with Understood.org
 <a href="mailto:ea1808@nyu.edu"> Ethan's Email </a>
 <br>
 </details>
+
+<br>
+### Important Slack Channels to Join
+<a href="https://datascienceclubnyu.slack.com/messages/general/"> DSC@NYU General Slack Channel </a>
+<a href="https://datascienceclubnyu.slack.com/messages/ask-a-grad-student"> Ask a Grad Student Slack Channel </a>
+<a href="https://datascienceclubnyu.slack.com/messages/ask-a-librarian"> Ask a Librarian Slack Channel </a>
 
 <br>
 ### FAQ's

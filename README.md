@@ -93,6 +93,8 @@ Ethan Assouline
 <summary>When is the event?</summary>
 <br>
 The event will be Friday 11/20 at 2pm EST to 11/21 5pm EST.
+----------------------------------------------------------------------------
+<br>
 </details>
 
 <details>

@@ -7,12 +7,21 @@ In association with Understood.org
 
 <img src="logounder.png" alt="understood.org" height="100"/>
 
+
+
+
 ### Registration Information
 <a href="https://ra2911.typeform.com/to/gJ3vFWCv"> General Registration Form </a>
 
-<a href="https://ra2911.typeform.com/to/gJ3vFWCv"> Still looking for a team? </a>
 
-<a href="https://ra2911.typeform.com/to/gJ3vFWCv"> Team Registration </a>
+<a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=0"> Still looking for a team? </a>
+
+(If your name doesn't appear on this list, we will assume you have a team)
+
+
+<a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=0"> Team Registration </a>
+
+(If your name doesn't appear on this list or the previous list, we will assume you are not participating in the datathon)
 
 ### Datathon Schedule
 
@@ -83,13 +92,42 @@ In association with Understood.org
 | 17:00 |                 |           |                         |                   |               |
 ```
 ### Contact Information
-Aditya Singhal
 
-Reema Amhaz
+<details>
+<summary> Aditya Singhal </summary>
+<br>
+<a href="https://datascienceclubnyu.slack.com/team/U01CY7M9L07"> Adi's Slack </a>
+  
+<a href="mailto:adis@nyu.edu"> Adi's Email </a>
+<br>
+</details>
 
-Kenan Anderson
+<details>
+<summary> Reema Amhaz </summary>
+<br>
+<a href="https://datascienceclubnyu.slack.com/team/U01DFL781D0"> Reema's Slack </a>
+  
+<a href="mailto:reema.amhaz@nyu.edu"> Reema's Email </a>
+<br>
+</details>
 
-Ethan Assouline
+<details>
+<summary> Kenan Anderson </summary>
+<br>
+<a href="https://datascienceclubnyu.slack.com/team/U01D678MFP0"> Kenan's Slack </a>
+  
+<a href="mailto:kenan.s.anderson@nyu.edu"> Kenan's Email </a>
+<br>
+</details>
+
+<details>
+<summary>Ethan Assouline </summary>
+<br>
+<a href="https://datascienceclubnyu.slack.com/team/U01D6B4FY94"> Ethan's Slack </a>
+  
+<a href="mailto:ea1808@nyu.edu"> Ethan's Email </a>
+<br>
+</details>
 
 
 

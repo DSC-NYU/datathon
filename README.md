@@ -3,6 +3,7 @@
 Hosted by the Data Science Club at NYU
 
 In association with Understood.org
+
 <img src="logounder.png" alt="understood.org" height="100"/>
 
 ### Registration

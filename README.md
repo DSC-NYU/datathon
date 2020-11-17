@@ -8,6 +8,12 @@ In association with Understood.org
 
 ### Registration
 
+Registration
+
+Still looking for a team?
+
+
+
 ### Datathon Schedule
 
 ```markdown

@@ -568,7 +568,7 @@ Since this is a remote hackathon, feel free to use whatever platform you like. Z
 dkjldkjflkdjlkf
 
 
-<img src="datathon.png" alt="poster" height="100"/>
+<img src="datathon.png" alt="poster"/>
 
 
 

@@ -1,8 +1,8 @@
 ## DSC @ NYU 2020 Datathon
 #### November 20-21, 2020 - Virtual
-#### Hosted by the Data Science Club at NYU ![DSC@NYU](smalllogo.png)
+#### Hosted by the Data Science Club at NYU 
 #### In association with Understood.org
-
+![DSC@NYU](smalllogo.png)
 
 
 ### Datathon Schedule

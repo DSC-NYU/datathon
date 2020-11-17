@@ -401,6 +401,7 @@ In association with Understood.org
 
 <br>
 ### Important Slack Channels to Join
+
 <a href="https://datascienceclubnyu.slack.com/messages/general/"> DSC@NYU General Slack Channel </a>
 
 <a href="https://datascienceclubnyu.slack.com/messages/ask-a-grad-student"> Ask a Grad Student Slack Channel </a>

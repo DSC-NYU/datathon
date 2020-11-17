@@ -3,8 +3,6 @@
 #### Hosted by the Data Science Club at NYU 
 #### In association with Understood.org
 ![DSC@NYU](smalllogo.png)
-
-
 ### Datathon Schedule
 
 ```markdown

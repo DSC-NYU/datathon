@@ -14,7 +14,7 @@ In association with Understood.org
 <a href="https://ra2911.typeform.com/to/gJ3vFWCv"> General Registration Form </a>
 
 
-<a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=0"> Still looking for a team? </a>
+<a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=140705883"> Still looking for a team? </a>
 
 (If your name doesn't appear on this list, we will assume you have a team)
 

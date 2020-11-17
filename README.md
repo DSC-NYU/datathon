@@ -35,6 +35,11 @@
 | 16:00 |                 |           |                         |                   |               |
 | 17:00 |                 |           |                         |                   |               |
 ```
+## Contact Information
+Aditya Singhal
+Reema Amhaz
+Kenan Anderson
+Ethan Assouline
 
 
 

@@ -3,10 +3,6 @@
 
 ### Schedule
 | Github Support  | FAQ Page  | Understood.com Support  | Library Support   | Team Support  |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
 
 ### FAQ's
 

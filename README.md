@@ -3,7 +3,9 @@
 #### Hosted by the Data Science Club
 
 ### Schedule
+
 | Time  | Github Support  | FAQ Page  | Understood.com Support  | Library Support   | Team Support  |
+-----------------------------------------------------------------------------------------------------
 | 14:00 |                 |           |                         |                   |               |
 | 15:00 |                 |           |                         |                   |               |
 | 16:00 |                 |           |                         |                   |               |

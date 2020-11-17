@@ -3,7 +3,7 @@
 ### November 20-21, 2020
 Hosted by the Data Science Club at NYU
 
-In association with Understood.org
+<h2> In association with Understood.org </h2>
 
 <img src="logounder.png" alt="understood.org" height="100"/>
 

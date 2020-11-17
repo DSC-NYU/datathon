@@ -9,11 +9,11 @@ In association with Understood.org
 
 ### Registration
 
-Registration
+General Registration Form
 
 Still looking for a team?
 
-
+Team Registration
 
 ### Datathon Schedule
 

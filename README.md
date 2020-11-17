@@ -97,7 +97,7 @@ In association with Understood.org
 <summary> Aditya Singhal </summary>
 <br>
 <a href="https://datascienceclubnyu.slack.com/team/U01CY7M9L07"> Adi's Slack </a>
-  
+<br>
 <a href="mailto:adis@nyu.edu"> Adi's Email </a>
 <br>
 </details>
@@ -106,7 +106,7 @@ In association with Understood.org
 <summary> Reema Amhaz </summary>
 <br>
 <a href="https://datascienceclubnyu.slack.com/team/U01DFL781D0"> Reema's Slack </a>
-  
+<br>
 <a href="mailto:reema.amhaz@nyu.edu"> Reema's Email </a>
 <br>
 </details>
@@ -115,7 +115,7 @@ In association with Understood.org
 <summary> Kenan Anderson </summary>
 <br>
 <a href="https://datascienceclubnyu.slack.com/team/U01D678MFP0"> Kenan's Slack </a>
-  
+<br>
 <a href="mailto:kenan.s.anderson@nyu.edu"> Kenan's Email </a>
 <br>
 </details>
@@ -124,7 +124,7 @@ In association with Understood.org
 <summary>Ethan Assouline </summary>
 <br>
 <a href="https://datascienceclubnyu.slack.com/team/U01D6B4FY94"> Ethan's Slack </a>
-  
+<br>
 <a href="mailto:ea1808@nyu.edu"> Ethan's Email </a>
 <br>
 </details>

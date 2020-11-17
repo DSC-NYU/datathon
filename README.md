@@ -423,7 +423,7 @@ The event will be 27 hours with submissions closing at 5pm EST on 11/21. Working
 <details>
 <summary>Where is the event being held?</summary>
 <br>
-The event will be virtual with all necessary information on this Github page. The workshop for this event which will be streamed on Youtube (link coming soon) will also be found embedded on this page. All other activities will be held on the Zoom for the event at $check_back_for_the_final_zoom_link$. This is where we will first assemble at 2pm ET on Friday. All meetings with event organizers and support staff will be through this Zoom call which will be on for the whole 27 hours. Breakout rooms for each team will also be available for the duration of the event, so you and your members can use the breakout rooms to collaborate and pop in and out of the general lobby to ask questions or to join the fun social events. Basically – you are your team can work in the breakout rooms of the same call, and then chill or ask questions in the general window of the same link.
+The event will be virtual with all necessary information on this Github page. The workshop for this event which will be streamed on Youtube $check_back_for_the_workshop_link$ will also be found embedded on this page. All other activities will be held on the Zoom for the event at $check_back_for_the_final_zoom_link$. This is where we will first assemble at 2pm ET on Friday. All meetings with event organizers and support staff will be through this Zoom call which will be on for the whole 27 hours. Breakout rooms for each team will also be available for the duration of the event, so you and your members can use the breakout rooms to collaborate and pop in and out of the general lobby to ask questions or to join the fun social events. Basically – you are your team can work in the breakout rooms of the same call, and then chill or ask questions in the general window of the same link.
 <br>
 ----------------------------------------------------------------------------
 <br>
@@ -515,7 +515,7 @@ If you are looking for teammates, reach out through the Hackathon-Team-Formation
 <details>
 <summary>What if I don’t have a team by the start of the event?</summary>
 <br>
-If you want a team, that mostly will not happen. We will release a google sheet document here soon where you will be able to reach out to anyone else who does not have a team. We will reach out to all registrants not a part of a team by Thursday and ask them to team up if they did not want to work solo.
+If you want a team, but do not have one yet please sign up using the link <a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=140705883"> here. </a> From here people can message you about joining their team. Otherwise, we will reach out to all registrants not a part of a team by Thursday to team up if they did not want to work solo.
 <br>
 ----------------------------------------------------------------------------
 <br>
@@ -524,7 +524,7 @@ If you want a team, that mostly will not happen. We will release a google sheet 
 <details>
 <summary>Where can I sign up?</summary>
 <br>
-The sign-up for this event is <a href="https://ra2911.typeform.com/to/gJ3vFWCv"> here </a>. If you have a team already formed please sign up below <a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=0"> here </a>. If you are looking for a team please use the link <a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=140705883"> here </a>.
+The sign-up for this event is <a href="https://ra2911.typeform.com/to/gJ3vFWCv"> here. </a> If you have a team already formed please sign up <a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=0"> here. </a>
 <br>
 ----------------------------------------------------------------------------
 <br>
@@ -533,7 +533,7 @@ The sign-up for this event is <a href="https://ra2911.typeform.com/to/gJ3vFWCv">
 <details>
 <summary>Where can I collaborate with my team?</summary>
 <br>
-Since this is a remote hackathon, feel free to use whatever platform you like. Zoom breakout rooms for each team will be provided. Feel free to hop on and off Zoom at your leisure. Additional recommended platforms include: Discord, Slack, and Github. 
+Since this is a remote hackathon, feel free to use whatever platform you like. Zoom breakout rooms for each team will be provided. Feel free to hop on and off Zoom at your leisure. Additional recommended platforms include: Discord, Slack, Groupme, Messenger, and Github. 
 <br>
 ----------------------------------------------------------------------------
 <br>

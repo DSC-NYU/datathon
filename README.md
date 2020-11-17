@@ -1,6 +1,6 @@
 ## Welcome to the NYU DSC 2020 Datathon Homepage
-#### When:11/20/20 2 p.m. - 11/21/20 5 p.m.
-#### Hosted by the Data Science Club
+#### When: 11/20/20 2 p.m. - 11/21/20 5 p.m.
+#### Hosted by the Data Science Club at NYU
 
 ### Schedule
 ```markdown
@@ -35,10 +35,13 @@
 | 16:00 |                 |           |                         |                   |               |
 | 17:00 |                 |           |                         |                   |               |
 ```
-## Contact Information
+### Contact Information
 Aditya Singhal
+
 Reema Amhaz
+
 Kenan Anderson
+
 Ethan Assouline
 
 

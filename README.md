@@ -5,9 +5,10 @@ Hosted by the Data Science Club at NYU
 
 In association with Understood.org 
 
-<img src="logounder.png" alt="understood.org" height="100"/>
+<img src="logo.png" alt="understood.org" height="100"/>
 
 
+#### This webpage will continuously be updated so please check back soon for more details.
 
 
 ### Registration Information
@@ -357,6 +358,7 @@ In association with Understood.org
   </tr>
 </table>
 
+<br>
 
 ### Contact Information
 
@@ -396,10 +398,7 @@ In association with Understood.org
 <br>
 </details>
 
-
-
-
-
+<br>
 ### FAQ's
 
 <details>
@@ -539,3 +538,8 @@ Since this is a remote hackathon, feel free to use whatever platform you like. Z
 <br>
 </details>
 
+<br>
+
+<h3> Flyers </h3>
+
+<img src="datathon.png" alt="poster"/>

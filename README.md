@@ -2,7 +2,9 @@
 #### When: 11/20/20 2 p.m. - 11/21/20 5 p.m.
 #### Hosted by the Data Science Club at NYU
 
-### Schedule
+### Datathon Schedule
+
+### Staff Support 
 ```markdown
 | Time  | Github Support  | FAQ Page  | Understood.com Support  | Library Support   | Team Support  |
 -----------------------------------------------------------------------------------------------------

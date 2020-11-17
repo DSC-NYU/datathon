@@ -31,20 +31,20 @@ In association with Understood.org
   </tr>
   <tr>
     <td>14:00</td>
-    <td></td>
+    <td> Understood.org Introduction</td>
   </tr>
   <tr>
     <td>15:00</td>
-    <td></td>
-  </tr>
-  <tr>
+    <td> </td>
+  </tr> 
+    <tr>
     <td>16:00</td>
-    <td></td>
-  </tr>
-  <tr>
+    <td> </td>
+  </tr> 
+    <tr>
     <td>17:00</td>
-    <td></td>
-  </tr>
+    <td> </td>
+  </tr> 
   <tr>
     <td>18:00</td>
     <td></td>
@@ -55,7 +55,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>20:00</td>
-    <td></td>
+    <td>Q&A hosted by NYU Bobst Data Science Specialist Vicky Steeves</td>
   </tr>
   <tr>
     <td>21:00</td>
@@ -115,7 +115,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>11:00</td>
-    <td></td>
+    <td>Q&A hosted by NYU Bobst Data Science Specialist Vicky Steeves</td>
   </tr>
   <tr>
     <td>12:00</td>
@@ -144,94 +144,84 @@ In association with Understood.org
 </table>
 
 
-### Workshop
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ua-CiDNNj30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Workshops 
+<a href="youtube.com"> Youtube </a>
 
 ### Support Staff Schedule
 <table>
   <tr>
     <th>Time (EST) </th>
+    <th>General/FAQ Support</th>
+    <th>Understood.org Support</th>
     <th>Github Support</th>
-    <th>FAQ Support</th>
-    <th>Understood.com Support</th>
     <th>Library Support</th>
-    <th>Team Support</th>
   </tr>
   <tr>
     <td>14:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Aditya, Kenan, Ethan, Reema </td>
+    <td>Understood.org Staff</td>
+    <td>Reema</td>
     <td></td>
   </tr>
   <tr>
     <td>15:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Aditya, Kenan, Ethan, Reema</td>
+    <td>Understood.org Staff</td>
+    <td>Reema</td>
     <td></td>
   </tr>
   <tr>
     <td>16:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Aditya, Kenan, Ethan, Reema</td>
+    <td>Understood.org Staff</td>
+    <td>Reema</td>
     <td></td>
   </tr>
   <tr>
     <td>17:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Aditya, Kenan, Ethan, Reema</td>
+    <td>Understood.org Staff</td>
+    <td>Reema</td>
     <td></td>
   </tr>
   <tr>
     <td>18:00</td>
+    <td>Aditya, Kenan, Ethan, Reema</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Reema</td>
     <td></td>
   </tr>
   <tr>
     <td>19:00</td>
+    <td>Aditya, Kenan, Ethan, Reema</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Reema</td>
     <td></td>
   </tr>
   <tr>
     <td>20:00</td>
+    <td>Aditya, Kenan, Ethan, Olivia</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Vicky Steeves</td>
   </tr>
   <tr>
     <td>21:00</td>
-    <td></td>
-    <td></td>
+    <td>Aditya, Kenan, Ethan, Olivia, Mindy</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>22:00</td>
-    <td></td>
-    <td></td>
+    <td>Aditya, Kenan, Ethan, Olivia, Mindy</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>23:00</td>
-    <td></td>
+    <td>Aditya, Kenan, Ethan, Olivia, Mindy</td>
     <td></td>
     <td></td>
     <td></td>
@@ -239,23 +229,20 @@ In association with Understood.org
   </tr>
   <tr>
     <td>00:00</td>
-    <td></td>
-    <td></td>
+    <td>Kenan, Olivia, Mindy</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>01:00</td>
-    <td></td>
-    <td></td>
+    <td>Kenan, Olivia, Mindy</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>02:00</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -275,11 +262,9 @@ In association with Understood.org
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>05:00</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -299,7 +284,6 @@ In association with Understood.org
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>08:00</td>
@@ -307,78 +291,68 @@ In association with Understood.org
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>09:00</td>
-    <td></td>
-    <td></td>
+    <td>Olivia, Mindy</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>10:00</td>
-    <td></td>
-    <td></td>
+    <td>Olivia, Mindy</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>11:00</td>
+    <td>Aditya, Kenan, Olivia, Mindy</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Vicky Steeves</td>
   </tr>
   <tr>
     <td>12:00</td>
-    <td></td>
-    <td></td>
+    <td>Aditya, Kenan, Olivia, Mindy</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>13:00</td>
+    <td>Aditya, Kenan, Ethan, Reema, Mindy</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Reema</td>
     <td></td>
   </tr>
   <tr>
     <td>14:00</td>
+    <td>Aditya, Kenan, Ethan, Reema</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Reema</td>
     <td></td>
   </tr>
   <tr>
     <td>15:00</td>
+    <td>Aditya, Kenan, Ethan, Reema</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Reema</td>
     <td></td>
   </tr>
   <tr>
     <td>16:00</td>
+    <td>Aditya, Kenan, Ethan, Reema</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Reema</td>
     <td></td>
   </tr>
   <tr>
     <td>17:00</td>
+    <td>Aditya, Kenan, Ethan, Reema</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Reema</td>
     <td></td>
   </tr>
 </table>
@@ -421,10 +395,6 @@ In association with Understood.org
 <a href="mailto:ea1808@nyu.edu"> Ethan's Email </a>
 <br>
 </details>
-
-
-
-
 
 
 
@@ -490,7 +460,7 @@ Understood.org staff will be available Friday 11/20 from 2pm EST to 6pm EST. Gra
 <details>
 <summary>What are the prizes?</summary>
 <br>
-Winning teams will receive Center for Data Science merch as well as networking and internship opportunities with Understood.org.
+Winning teams will receive Center for Data Science merch as well as prizes from Understood.org.
 <br>
 ----------------------------------------------------------------------------
 <br>
@@ -535,7 +505,7 @@ Suggested team size is 3-6 members. You can work solo if you wish.
 <details>
 <summary>How do I form a team?</summary>
 <br>
-If you are looking for teammates, reach out through the Hackathon-Team-Formation channel on slack or grab your friends!. If you have not signed up for the Data Science @ NYU slack yet, the link is: >INSERT SLACK LINK<.
+If you are looking for teammates, reach out through the Hackathon-Team-Formation channel on slack or grab your friends!. If you have not signed up for the Data Science @ NYU slack yet, the link is <a href="https://datascienceclubnyu.slack.com"> here </a>
 <br>
 ----------------------------------------------------------------------------
 <br>
@@ -554,7 +524,7 @@ If you want a team, that mostly will not happen. We will release a google sheet 
 <details>
 <summary>Where can I sign up?</summary>
 <br>
-The sign-up for this event is >INSERT TYPEFORM HERE<. If you have a team already formed please sign up below >INSERT TEAM SIGN UP HERE<
+The sign-up for this event is <a href="https://ra2911.typeform.com/to/gJ3vFWCv"> here </a>. If you have a team already formed please sign up below <a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=0"> here </a>. If you are looking for a team please use the link <a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=140705883"> here </a>.
 <br>
 ----------------------------------------------------------------------------
 <br>
@@ -568,16 +538,4 @@ Since this is a remote hackathon, feel free to use whatever platform you like. Z
 ----------------------------------------------------------------------------
 <br>
 </details>
-
-
-
-
-
-### Flyers
-
-
-<img src="datathon.png" alt="poster"/>
-
-
-
 

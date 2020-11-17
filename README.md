@@ -117,7 +117,7 @@ The event will be 27 hours with submissions closing at 5pm EST on 11/21. Working
 <details>
 <summary>Where is the event being held?</summary>
 <br>
-The event will be virtual with all necessary information on the Github >INSERT LINK<. The workshop for this event which will be streamed on Youtube can also be found on Github. All other activities will be held on the Zoom for the event at >INSERT LINK<. All meetings with event organizers and support staff will be through the Zoom call. Breakout rooms for each team will also be available for the duration of the event.
+The event will be virtual with all necessary information on this Github page. The workshop for this event which will be streamed on Youtube (link coming soon) will also be found embedded on this page. All other activities will be held on the Zoom for the event at $check_back_for_the_final_zoom_link$. This is where we will first assemble at 2pm ET on Friday. All meetings with event organizers and support staff will be through this Zoom call which will be on for the whole 27 hours. Breakout rooms for each team will also be available for the duration of the event, so you and your members can use the breakout rooms to collaborate and pop in and out of the general lobby to ask questions or to join the fun social events. Basically – you are your team can work in the breakout rooms of the same call, and then chill or ask questions in the general window of the same link.
 <br>
 ----------------------------------------------------------------------------
 <br>
@@ -126,7 +126,7 @@ The event will be virtual with all necessary information on the Github >INSERT L
 <details>
 <summary>Who is hosting the event?</summary>
 <br>
-This event is a 3-way collaboration between Data Science Club @ NYU, Understood.org, and NYU Bobst Library. Understood.org will be running the datathon, providing assistance throughout the event, and evaluating the work of participants. NYU Bobst will be hosting the technical workshop as well as a Q&A.
+This event is a 3-way collaboration between Data Science Club @ NYU, Understood.org, and NYU Bobst Library. Understood.org will be running the datathon, providing assistance throughout the event, and evaluating the work of participants. NYU Bobst will be hosting the technical workshop as well as a Q&A. DSC is putting all this together, providing graduate student level tech assistance and managing all teams and other stakeholders.
 <br>
 ----------------------------------------------------------------------------
 <br>
@@ -135,7 +135,7 @@ This event is a 3-way collaboration between Data Science Club @ NYU, Understood.
 <details>
 <summary>Where is the workshop being held?</summary>
 <br>
-The workshop will be premiering Friday morning on Github at *INPUT TIME*. The premiere will also be available through the Youtube link >INPUT YOUTUBE LINK<. If you have any questions during the workshop premiere feel free to message the Youtube chat. There will be someone available to answer any questions that may arise.
+The workshop will be premiering Friday morning on this link at $check_back_for_final_time$. The premiere will also be available through the Youtube link  $check_back_for_final_link$. If you have any questions during the workshop premiere feel free to message the "ask-a-librarian" channel on Slack. There will be someone available to answer any questions that may arise. Tech/workshop-related questions will be answered by our Data Science Specialist Librarian Vicky Steeves between 8-9pm ET on Friday and 11am-12pm on Saturday. Other times, the DSC E-board and CDS graduate students may help you out. 
 <br>
 ----------------------------------------------------------------------------
 <br>

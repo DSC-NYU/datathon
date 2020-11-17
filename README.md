@@ -83,15 +83,6 @@ Ethan Assouline
 
 ### FAQ's
 
-```markdown
-1. Question
-- answer
-2. Question
-- answer
-3. Question
-- answer
-
-```
 <details>
 <summary>Q?</summary>
 <br>

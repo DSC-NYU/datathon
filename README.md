@@ -3,17 +3,16 @@
 ### November 20-21, 2020
 Hosted by the Data Science Club at NYU
 
-<h3> In association with Understood.org </h3>
+In association with Understood.org 
 
 <img src="logounder.png" alt="understood.org" height="100"/>
 
-### Registration
+### Registration Information
+<a href="https://ra2911.typeform.com/to/gJ3vFWCv"> General Registration Form </a>
 
-General Registration Form
+<a href="https://ra2911.typeform.com/to/gJ3vFWCv"> Still looking for a team? </a>
 
-Still looking for a team?
-
-Team Registration
+<a href="https://ra2911.typeform.com/to/gJ3vFWCv"> Team Registration </a>
 
 ### Datathon Schedule
 

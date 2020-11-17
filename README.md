@@ -146,6 +146,7 @@ In association with Understood.org
 
 <br>
 ### Workshop
+## This is a placeholder video, check back on the day of the event for the link when it goes live
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ua-CiDNNj30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>

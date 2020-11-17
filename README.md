@@ -84,7 +84,11 @@ Ethan Assouline
 ### FAQ's
 
 ```markdown
-
+<details>
+<summary>Q?</summary>
+<br>
+A.
+</details>
 1. Question
 - answer
 2. Question

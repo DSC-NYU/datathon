@@ -4,7 +4,7 @@
 
 ### Datathon Schedule
 
-### Staff Support 
+### Support Staff Schedule
 ```markdown
 | Time  | Github Support  | FAQ Page  | Understood.com Support  | Library Support   | Team Support  |
 -----------------------------------------------------------------------------------------------------

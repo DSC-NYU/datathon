@@ -10,7 +10,7 @@ In association with Understood.org
 
 #### This webpage will continuously be updated so please check back soon for more details.
 
-
+<br>
 ### Registration Information
 <a href="https://ra2911.typeform.com/to/gJ3vFWCv"> General Registration Form </a>
 
@@ -23,7 +23,7 @@ In association with Understood.org
 <a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=0"> Team Registration </a>
 
 (If your name doesn't appear on this list or the previous list, we will assume you are not participating in the datathon)
-
+<br>
 ### Datathon Schedule
 <table>
   <tr>
@@ -144,11 +144,11 @@ In association with Understood.org
   </tr>
 </table>
 
-
+<br>
 ### Workshop
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ua-CiDNNj30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<br>
 ### Support Staff Schedule
 <table>
   <tr>

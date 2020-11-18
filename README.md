@@ -32,11 +32,11 @@ In association with Understood.org
   </tr>
   <tr>
     <td>14:00</td>
-    <td> Understood.org Introduction</td>
+    <td> Introduction with Understood.org</td>
   </tr>
   <tr>
     <td>15:00</td>
-    <td> </td>
+    <td>Discussion and Q&A with Understood.org </td>
   </tr> 
     <tr>
     <td>16:00</td>
@@ -179,7 +179,7 @@ In association with Understood.org
   <tr>
     <td>16:00</td>
     <td>Aditya, Kenan, Ethan, Reema</td>
-    <td>Understood.org Staff</td>
+    <td></td>
     <td>Reema</td>
     <td></td>
     <td></td>
@@ -187,7 +187,7 @@ In association with Understood.org
   <tr>
     <td>17:00</td>
     <td>Aditya, Kenan, Ethan, Reema</td>
-    <td>Understood.org Staff</td>
+    <td></td>
     <td>Reema</td>
     <td></td>
     <td></td>

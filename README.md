@@ -157,6 +157,7 @@ In association with Understood.org
     <th>General/FAQ Support</th>
     <th>Understood.org Support</th>
     <th>Github Support</th>
+    <th>Masters Student Support</th>
     <th>Library Support</th>
   </tr>
   <tr>
@@ -165,12 +166,14 @@ In association with Understood.org
     <td>Understood.org Staff</td>
     <td>Reema</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>15:00</td>
     <td>Aditya, Kenan, Ethan, Reema</td>
     <td>Understood.org Staff</td>
     <td>Reema</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -179,6 +182,7 @@ In association with Understood.org
     <td>Understood.org Staff</td>
     <td>Reema</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>17:00</td>
@@ -186,12 +190,14 @@ In association with Understood.org
     <td>Understood.org Staff</td>
     <td>Reema</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>18:00</td>
     <td>Aditya, Kenan, Ethan, Reema</td>
     <td></td>
     <td>Reema</td>
+    <td>Dhara Mungra</td>
     <td></td>
   </tr>
   <tr>
@@ -199,11 +205,13 @@ In association with Understood.org
     <td>Aditya, Kenan, Ethan, Reema</td>
     <td></td>
     <td>Reema</td>
+    <td>Christina Dominguez</td>
     <td></td>
   </tr>
   <tr>
     <td>20:00</td>
     <td>Aditya, Kenan, Ethan, Olivia</td>
+    <td></td>
     <td></td>
     <td></td>
     <td>Vicky Steeves</td>
@@ -213,6 +221,7 @@ In association with Understood.org
     <td>Aditya, Kenan, Ethan, Olivia, Mindy</td>
     <td></td>
     <td></td>
+    <td>Hyun Jung</td>
     <td></td>
   </tr>
   <tr>
@@ -220,6 +229,7 @@ In association with Understood.org
     <td>Aditya, Kenan, Ethan, Olivia, Mindy</td>
     <td></td>
     <td></td>
+    <td>Sudharsan Asaithambi</td>
     <td></td>
   </tr>
   <tr>
@@ -227,12 +237,13 @@ In association with Understood.org
     <td>Aditya, Kenan, Ethan, Olivia, Mindy</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>Sudharsan Asaithambi</td>
     <td></td>
   </tr>
   <tr>
     <td>00:00</td>
     <td>Kenan, Olivia, Mindy</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -243,9 +254,11 @@ In association with Understood.org
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>02:00</td>
+    <td>Olivia</td>
     <td></td>
     <td></td>
     <td></td>
@@ -253,7 +266,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>03:00</td>
-    <td></td>
+    <td>Olivia</td>
     <td></td>
     <td></td>
     <td></td>
@@ -261,6 +274,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>04:00</td>
+    <td>Olivia</td>
     <td></td>
     <td></td>
     <td></td>
@@ -268,6 +282,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>05:00</td>
+    <td>Olivia</td>
     <td></td>
     <td></td>
     <td></td>
@@ -275,7 +290,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>06:00</td>
-    <td></td>
+    <td>Mindy</td>
     <td></td>
     <td></td>
     <td></td>
@@ -283,6 +298,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>07:00</td>
+    <td>Mindy</td>
     <td></td>
     <td></td>
     <td></td>
@@ -290,6 +306,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>08:00</td>
+    <td>Mindy</td>
     <td></td>
     <td></td>
     <td></td>
@@ -301,17 +318,20 @@ In association with Understood.org
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>10:00</td>
     <td>Olivia, Mindy</td>
     <td></td>
     <td></td>
+    <td>Anu-Ujin Gerelt-Od</td>
     <td></td>
   </tr>
   <tr>
     <td>11:00</td>
     <td>Aditya, Kenan, Olivia, Mindy</td>
+    <td></td>
     <td></td>
     <td></td>
     <td>Vicky Steeves</td>
@@ -322,12 +342,14 @@ In association with Understood.org
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>13:00</td>
     <td>Aditya, Kenan, Ethan, Reema, Mindy</td>
     <td></td>
     <td>Reema</td>
+    <td>Dhara Mungra</td>
     <td></td>
   </tr>
   <tr>
@@ -336,12 +358,14 @@ In association with Understood.org
     <td></td>
     <td>Reema</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>15:00</td>
     <td>Aditya, Kenan, Ethan, Reema</td>
     <td></td>
     <td>Reema</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
@@ -350,12 +374,14 @@ In association with Understood.org
     <td></td>
     <td>Reema</td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>17:00</td>
     <td>Aditya, Kenan, Ethan, Reema</td>
     <td></td>
     <td>Reema</td>
+    <td></td>
     <td></td>
   </tr>
 </table>

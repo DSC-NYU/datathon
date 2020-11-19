@@ -511,6 +511,15 @@ Understood.org evaluates the projects of the participants. More information will
 </details>
 
 <details>
+<summary>What is the team spirit award?</summary>
+<br>
+The team spirit award is given to the team who participates the most in the social events held over the course of the datathon. More information will be given at 17:00 EST over Zoom. Make sure to participate as there will be prizes!
+<br>
+----------------------------------------------------------------------------
+<br>
+</details>
+
+<details>
 <summary>When will winners be announced?</summary>
 <br>
 Top teams will be emailed and winners will be formally announced by the following week.

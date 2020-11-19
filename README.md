@@ -210,7 +210,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>20:00</td>
-    <td>Aditya, Kenan, Ethan, Olivia</td>
+    <td>Aditya, Kenan, Ethan</td>
     <td></td>
     <td></td>
     <td></td>
@@ -218,7 +218,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>21:00</td>
-    <td>Aditya, Kenan, Ethan, Olivia, Mindy</td>
+    <td>Aditya, Kenan, Ethan, Mindy</td>
     <td></td>
     <td></td>
     <td>Hyun Jung</td>
@@ -226,7 +226,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>22:00</td>
-    <td>Aditya, Kenan, Ethan, Olivia, Mindy</td>
+    <td>Aditya, Kenan, Ethan, Mindy</td>
     <td></td>
     <td></td>
     <td>Sudharsan Asaithambi</td>

@@ -44,7 +44,7 @@ In association with Understood.org
   </tr> 
     <tr>
     <td>17:00</td>
-    <td> </td>
+    <td> Team Spirit Award Introduction with Kenan Anderson</td>
   </tr> 
   <tr>
     <td>18:00</td>
@@ -486,7 +486,7 @@ The workshop will be premiering Friday 11/20 at 6pm EST on this link at $check_b
 <summary>What assistance will be provided during the event?
 </summary>
 <br>
-Understood.org staff will be kick off the event with an introduction on Friday 11/20 at 2pm EST and will be around for Q&A and discussion until 4pm EST. We are joined by Francisco Arceo from the data science team, Preeya Goradia from the impact/ecosystem team, and Haftan Eckholdt who leads both of these teams. They may also be reached over the weekend through the "Ask-Understood" Slack channel. Graduate students will also be available over Zoom during designated timeslots throughout the event. A "Ask a Graduate" slack channel will also be available. A Q&A will also be hosted by NYU Bobst Data Science Specialist Vicky Steeves during the event. E-Board members will be available over Zoom for the full event time. Check the posted schedule for exact times.
+Understood.org staff will kick off the event with an introduction on Friday 11/20 at 2pm EST and will be around for Q&A and discussion until 4pm EST. We are joined by Francisco Arceo from the data science team, Preeya Goradia from the impact/ecosystem team, and Haftan Eckholdt who leads both of these teams. They may also be reached over the weekend through the "Ask-Understood" Slack channel. Graduate students will also be available over Zoom during designated timeslots throughout the event. A "Ask a Graduate" slack channel will also be available. A Q&A will also be hosted by NYU Bobst Data Science Specialist Vicky Steeves during the event. E-Board members will be available over Zoom for the full event time. Check the posted schedule for exact times.
 <br>
 ----------------------------------------------------------------------------
 <br>

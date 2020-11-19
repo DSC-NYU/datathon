@@ -157,8 +157,8 @@ In association with Understood.org
     <th>General/FAQ Support</th>
     <th>Understood.org Support</th>
     <th>Github Support</th>
-    <th>Masters Student Support</th>
-    <th>Library Support</th>
+    <th>Ask a Grad Student</th>
+    <th>Ask a Librarian</th>
   </tr>
   <tr>
     <td>14:00</td>

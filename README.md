@@ -162,7 +162,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>14:00</td>
-    <td>Aditya, Kenan, Ethan, Reema </td>
+    <td>Aditya, Kenan, Ethan</td>
     <td>Understood.org Staff</td>
     <td>Reema</td>
     <td></td>
@@ -170,7 +170,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>15:00</td>
-    <td>Aditya, Kenan, Ethan, Reema, Areeb</td>
+    <td>Aditya, Kenan, Ethan, Areeb</td>
     <td>Understood.org Staff</td>
     <td>Reema</td>
     <td></td>
@@ -178,7 +178,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>16:00</td>
-    <td>Aditya, Kenan, Ethan, Reema, Areeb</td>
+    <td>Aditya, Kenan, Ethan, Areeb</td>
     <td></td>
     <td>Reema</td>
     <td></td>
@@ -186,7 +186,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>17:00</td>
-    <td>Aditya, Kenan, Ethan, Reema, Areeb</td>
+    <td>Aditya, Kenan, Ethan, Areeb</td>
     <td></td>
     <td>Reema</td>
     <td></td>
@@ -194,7 +194,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>18:00</td>
-    <td>Aditya, Kenan, Ethan, Reema</td>
+    <td>Aditya, Kenan, Ethan</td>
     <td></td>
     <td>Reema</td>
     <td>Dhara Mungra</td>
@@ -202,7 +202,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>19:00</td>
-    <td>Aditya, Kenan, Ethan, Reema</td>
+    <td>Aditya, Kenan, Ethan</td>
     <td></td>
     <td>Reema</td>
     <td>Christina Dominguez</td>
@@ -346,7 +346,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>13:00</td>
-    <td>Aditya, Kenan, Ethan, Reema, Mindy</td>
+    <td>Aditya, Kenan, Ethan, Mindy</td>
     <td></td>
     <td>Reema</td>
     <td>Dhara Mungra</td>
@@ -354,7 +354,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>14:00</td>
-    <td>Aditya, Kenan, Ethan, Reema</td>
+    <td>Aditya, Kenan, Ethan</td>
     <td></td>
     <td>Reema</td>
     <td></td>
@@ -362,7 +362,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>15:00</td>
-    <td>Aditya, Kenan, Ethan, Reema</td>
+    <td>Aditya, Kenan, Ethan</td>
     <td></td>
     <td>Reema</td>
     <td></td>
@@ -370,7 +370,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>16:00</td>
-    <td>Aditya, Kenan, Ethan, Reema</td>
+    <td>Aditya, Kenan, Ethan</td>
     <td></td>
     <td>Reema</td>
     <td></td>
@@ -378,7 +378,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>17:00</td>
-    <td>Aditya, Kenan, Ethan, Reema</td>
+    <td>Aditya, Kenan, Ethan</td>
     <td></td>
     <td>Reema</td>
     <td></td>

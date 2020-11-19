@@ -170,7 +170,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>15:00</td>
-    <td>Aditya, Kenan, Ethan, Reema</td>
+    <td>Aditya, Kenan, Ethan, Reema, Areeb</td>
     <td>Understood.org Staff</td>
     <td>Reema</td>
     <td></td>
@@ -178,7 +178,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>16:00</td>
-    <td>Aditya, Kenan, Ethan, Reema</td>
+    <td>Aditya, Kenan, Ethan, Reema, Areeb</td>
     <td></td>
     <td>Reema</td>
     <td></td>
@@ -186,7 +186,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>17:00</td>
-    <td>Aditya, Kenan, Ethan, Reema</td>
+    <td>Aditya, Kenan, Ethan, Reema, Areeb</td>
     <td></td>
     <td>Reema</td>
     <td></td>
@@ -242,7 +242,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>00:00</td>
-    <td>Kenan, Olivia, Mindy</td>
+    <td>Kenan, Olivia, Mindy, Areeb</td>
     <td></td>
     <td></td>
     <td></td>
@@ -250,7 +250,7 @@ In association with Understood.org
   </tr>
   <tr>
     <td>01:00</td>
-    <td>Kenan, Olivia, Mindy</td>
+    <td>Kenan, Olivia, Mindy, Areeb</td>
     <td></td>
     <td></td>
     <td></td>

@@ -476,7 +476,7 @@ This event is a 3-way collaboration between Data Science Club @ NYU, Understood.
 <details>
 <summary>Where is the workshop being held?</summary>
 <br>
-The workshop will be premiering Friday morning on this link at $check_back_for_final_time$. The premiere will also be available through the Youtube link  $check_back_for_final_link$. If you have any questions during the workshop premiere feel free to message the "ask-a-librarian" channel on Slack. There will be someone available to answer any questions that may arise. Tech/workshop-related questions will be answered by our Data Science Specialist Librarian Vicky Steeves between 8-9pm ET on Friday and 11am-12pm on Saturday. Other times, the DSC E-board and CDS graduate students may help you out. 
+The workshop will be premiering Friday 11/20 at 6pm EST on this link at $check_back_for_final_time$. The premiere will also be available through the Youtube link  $check_back_for_final_link$. If you have any questions during the workshop premiere feel free to message the "ask-a-librarian" channel on Slack. There will be someone available to answer any questions that may arise. Tech/workshop-related questions will be answered by our Data Science Specialist Librarian Vicky Steeves between 8-9pm ET on Friday and 11am-12pm on Saturday. Other times, the DSC E-board and CDS graduate students may help you out. 
 <br>
 ----------------------------------------------------------------------------
 <br>

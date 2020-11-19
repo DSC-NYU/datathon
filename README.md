@@ -449,7 +449,7 @@ The event will be Friday 11/20 from 2pm EST to 11/21 5pm EST.
 <details>
 <summary>How long is the event?</summary>
 <br>
-The event will be 27 hours with submissions closing at 5pm EST on 11/21. Working for the entire length of the event is not required. Coordinate with your team to find times that work for everyone.
+The event will be 27 hours starting at 2pm EST on Friday 11/20 and submissions will close at 5pm EST on 11/21. Working for the entire length of the event is not required. Coordinate with your team to find times that work for everyone.
 <br>
 ----------------------------------------------------------------------------
 <br>
@@ -458,7 +458,7 @@ The event will be 27 hours with submissions closing at 5pm EST on 11/21. Working
 <details>
 <summary>Where is the event being held?</summary>
 <br>
-The event will be virtual with all necessary information on this Github page. The workshop for this event which will be streamed on Youtube $check_back_for_the_workshop_link$ will also be found embedded on this page. All other activities will be held on the Zoom for the event at $check_back_for_the_final_zoom_link$. This is where we will first assemble at 2pm ET on Friday. All meetings with event organizers and support staff will be through this Zoom call which will be on for the whole 27 hours. Breakout rooms for each team will also be available for the duration of the event, so you and your members can use the breakout rooms to collaborate and pop in and out of the general lobby to ask questions or to join the fun social events. Basically – you are your team can work in the breakout rooms of the same call, and then chill or ask questions in the general window of the same link.
+The event will be virtual with all necessary information on this Github page. The workshop for this will be streamed on Youtube $check_back_for_the_workshop_link$ and can also be found embedded on this page. All other activities will be held on the Zoom for the event at $check_back_for_the_final_zoom_link$. This is where we will first assemble at 2pm EST on Friday where Understood.org staff will kick off the event. All meetings with event organizers and support staff will be through this Zoom call which will be on for the whole 27 hours. Breakout rooms for each team will also be available for the duration of the event, so you and your members can use the breakout rooms to collaborate and pop in and out of the general lobby to ask questions or to join the fun social events. Basically – you and your team can work in the breakout rooms of the same call, and then chill or ask questions in the general meeting room of the same link.
 <br>
 ----------------------------------------------------------------------------
 <br>
@@ -486,7 +486,7 @@ The workshop will be premiering Friday morning on this link at $check_back_for_f
 <summary>What assistance will be provided during the event?
 </summary>
 <br>
-Understood.org staff will be available Friday 11/20 from 2pm EST to 6pm EST. Graduate students will also be available by appointment to provide technical help during designated timeslots throughout the event. A Q&A will also be hosted by NYU Bobst Data Science Specialist Vicky Steeves during the event. E-Board members will be available over Zoom for the full event time. Check the posted schedule for exact times.
+Understood.org staff will be kick off the event with an introduction on Friday 11/20 at 2pm EST and will be around for Q&A and discussion until 4pm EST. We are joined by Francisco Arceo from the data science team, Preeya Goradia from the impact/ecosystem team, and Haftan Eckholdt who leads both of these teams. They may also be reached over the weekend through the "Ask-Understood" Slack channel. Graduate students will also be available over Zoom during designated timeslots throughout the event. A "Ask a Graduate" slack channel will also be available. A Q&A will also be hosted by NYU Bobst Data Science Specialist Vicky Steeves during the event. E-Board members will be available over Zoom for the full event time. Check the posted schedule for exact times.
 <br>
 ----------------------------------------------------------------------------
 <br>
@@ -540,7 +540,7 @@ Suggested team size is 3-6 members. You can work solo if you wish.
 <details>
 <summary>How do I form a team?</summary>
 <br>
-If you are looking for teammates, reach out through the Hackathon-Team-Formation channel on slack or grab your friends!. If you have not signed up for the Data Science @ NYU slack yet, the link is <a href="https://datascienceclubnyu.slack.com"> here </a>
+If you are looking for teammates, reach out through the Hackathon-Team-Formation channel on slack or grab your friends! If you have not signed up for the Data Science @ NYU slack yet, the link is <a href="https://datascienceclubnyu.slack.com"> here. </a>
 <br>
 ----------------------------------------------------------------------------
 <br>
@@ -550,7 +550,7 @@ If you are looking for teammates, reach out through the Hackathon-Team-Formation
 <details>
 <summary>What if I don’t have a team by the start of the event?</summary>
 <br>
-If you want a team, but do not have one yet please sign up using the link <a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=140705883"> here. </a> From here people can message you about joining their team. Otherwise, we will reach out to all registrants not a part of a team by Thursday to team up if they did not want to work solo.
+If you want a team, but do not have one yet please sign up using the link <a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=140705883"> here. </a> From here, people can message you about joining their team. Otherwise, we will reach out to all registrants not a part of a team by Thursday to team up if they did not want to work solo.
 <br>
 ----------------------------------------------------------------------------
 <br>

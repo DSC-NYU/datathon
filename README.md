@@ -11,19 +11,22 @@ In association with Understood.org
 #### This webpage will continuously be updated so please check back soon for more details.
 
 
-### Datathon Primary Directive </br>
-Build an automated tool to create and populate a dataset of companies that have potential to partner with Understood.org.<br>
-Build logic for Understood.org to score how closely each company aligns with their mission statement.</br>
-Your approach should be built with latency in mind although the way you score how each company aligns with Understood is up to you.</br>
-Feel free to explore the content of the websites of the companies you look at. NLP projects may flourish here.</br>
+### Datathon Primary Directive 
+Build an automated tool to create and populate a dataset of companies that have potential to partner with Understood.org.
+<br>
+Build logic for Understood.org to score how closely each company aligns with their mission statement.
+Your approach should be built with latency in mind although the way you score how each company aligns with Understood is up to you.
+<br>
+Feel free to explore the content of the websites of the companies you look at. NLP projects may flourish here.
+<br>
 When adding features, make sure to pick 
-Feel free to use any data and coding language at your disposal. Some sample websites where data can be found are listed below:</br>
-https://nonprofit.linkedin.com/ </br>
-https://projects.propublica.org/nonprofits/ </br>
-Examples of companies who align with Understood's mission statement: </br>
-National Center for Learning Disabilities.</br>
-Examples of companies who do not align with Understood's mission statement:</br>
-Exxon Mobile</br>
+Feel free to use any data and coding language at your disposal. Some sample websites where data can be found are listed below:
+https://nonprofit.linkedin.com/ <br>
+https://projects.propublica.org/nonprofits/ <br>
+Examples of companies who align with Understood's mission statement: <br>
+National Center for Learning Disabilities.<br>
+Examples of companies who do not align with Understood's mission statement:<br>
+Exxon Mobile<br>
 
 ### Scoring
   How many entities (rows) and features (columns) can you bring to the dataset?</br>

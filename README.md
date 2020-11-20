@@ -28,6 +28,8 @@ Feel free to use any data and coding language at your disposal. Some sample webs
 <ul>
   <li>https://nonprofit.linkedin.com/</li>
   <li>https://projects.propublica.org/nonprofits/ </li>
+  <li>https://www.globallearninglandscape.org/ </li>
+  <li>https://www.sec.gov/edgar.shtml </li>
 </ul>
 <br>
 <br>
@@ -37,11 +39,11 @@ Examples of companies who align with Understood's mission statement: National Ce
 Examples of companies who do not align with Understood's mission statement:Exxon Mobile
 
 ### Scoring
-  How many entities (rows) and features (columns) can you bring to the dataset?</br>
+  How many useful entities (rows) and features (columns) can you bring to the dataset?</br>
   Is the information usable in the long term? Can it be refreshed as it gets outdated?</br>
   Latency of your model</br>
   Can you identify for-profit and non-profit entities that are aligned with Understood.org's mission?
-  
+  Can you identify how close 
   
 ### Submission
 Submissions will ideally be in a csv format.

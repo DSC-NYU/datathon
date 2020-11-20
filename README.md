@@ -18,7 +18,7 @@ In association with Understood.org
 Your approach should be built with latency in mind although the way you score how each company aligns with Understood is up to you.</li>
   <li>Feel free to explore the content of the websites of the companies you look at. NLP projects may flourish here.</li>
 </ul>
-<br>
+
 <br>
 * Feel free to add as many features as possible. 
 <br>

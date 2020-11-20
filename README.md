@@ -12,21 +12,26 @@ In association with Understood.org
 
 
 ### Datathon Primary Directive 
-Build an automated tool to create and populate a dataset of companies that have potential to partner with Understood.org.
+<ul>
+  <li>Build an automated tool to create and populate a dataset of companies that have potential to partner with Understood.org.</li>
+  <li>Build logic for Understood.org to score how closely each company aligns with their mission statement.
+Your approach should be built with latency in mind although the way you score how each company aligns with Understood is up to you.</li>
+  <li>Feel free to explore the content of the websites of the companies you look at. NLP projects may flourish here.</li>
+</ul>
 <br>
-Build logic for Understood.org to score how closely each company aligns with their mission statement.
-Your approach should be built with latency in mind although the way you score how each company aligns with Understood is up to you.
 <br>
-Feel free to explore the content of the websites of the companies you look at. NLP projects may flourish here.
+* Feel free to add as many features as possible. 
 <br>
-When adding features, make sure to pick 
+<br>
 Feel free to use any data and coding language at your disposal. Some sample websites where data can be found are listed below:
-https://nonprofit.linkedin.com/ <br>
-https://projects.propublica.org/nonprofits/ <br>
-Examples of companies who align with Understood's mission statement: <br>
-National Center for Learning Disabilities.<br>
-Examples of companies who do not align with Understood's mission statement:<br>
-Exxon Mobile<br>
+<ul>
+  <li>https://nonprofit.linkedin.com/</li>
+  <li>https://projects.propublica.org/nonprofits/ </li>
+</ul>
+<br>
+<br>
+Examples of companies who align with Understood's mission statement: National Center for Learning Disabilities
+Examples of companies who do not align with Understood's mission statement:Exxon Mobile
 
 ### Scoring
   How many entities (rows) and features (columns) can you bring to the dataset?</br>

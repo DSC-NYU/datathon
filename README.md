@@ -568,7 +568,7 @@ If you want a team, but do not have one yet please sign up using the link <a hre
 <details>
 <summary>Where can I sign up?</summary>
 <br>
-The sign-up for this event is <a href="https://ra2911.typeform.com/to/gJ3vFWCv"> here. </a> If you have a team already formed please sign up <a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=0"> here. </a>
+Sign-ups for this event have closed. </a> If you have a team already formed please make sure to sign up <a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=0"> here.  </a> If you do not have a team yet but are interested in joining a team, please use the second sheet on the spreadsheet to put your contact information in.
 <br>
 ----------------------------------------------------------------------------
 <br>

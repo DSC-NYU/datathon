@@ -11,19 +11,10 @@ In association with Understood.org
 #### This webpage will continuously be updated so please check back soon for more details.
 
 <br>
-### Registration Information
-<a href="https://ra2911.typeform.com/to/gJ3vFWCv"> General Registration Form </a>
+### Team Information
 
+<a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=0"> Team List </a>
 
-<a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=140705883"> Still looking for a team? </a>
-
-(If your name doesn't appear on this list, we will assume you have a team)
-
-
-<a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=0"> Team Registration </a>
-
-(If your name doesn't appear on this list or the previous list, we will assume you are not participating in the datathon)
-<br>
 ### Datathon Schedule
 <table>
   <tr>

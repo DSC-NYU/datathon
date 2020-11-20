@@ -588,3 +588,4 @@ Since this is a remote hackathon, feel free to use whatever platform you like. Z
 <h3> Flyers </h3>
 
 <img src="datathon.png" alt="poster"/>
+<img src="Bobst Workshop.png" alt="poster"/>

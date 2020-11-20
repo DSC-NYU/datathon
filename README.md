@@ -434,6 +434,8 @@ In association with Understood.org
 
 <a href="https://datascienceclubnyu.slack.com/messages/ask-a-librarian"> Ask a Librarian Slack Channel </a>
 
+<a href="https://datascienceclubnyu.slack.com/messages/ask-understood-staff"> Ask Understood Staff Channel </a>
+
 <br>
 ### FAQ's
 

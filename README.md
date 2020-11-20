@@ -31,6 +31,8 @@ Feel free to use any data and coding language at your disposal. Some sample webs
 <br>
 <br>
 Examples of companies who align with Understood's mission statement: National Center for Learning Disabilities
+<br>
+<br>
 Examples of companies who do not align with Understood's mission statement:Exxon Mobile
 
 ### Scoring

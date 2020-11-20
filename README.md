@@ -176,7 +176,7 @@ Submissions will ideally be in a csv format.
 
 <br>
 ### Workshop
-#### This is a placeholder video, check back on the day of the event for the link when it goes live
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NPyhsKqDTsg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Lh_0Xv7-SE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

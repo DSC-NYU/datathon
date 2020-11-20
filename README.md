@@ -15,7 +15,7 @@ In association with Understood.org
 Tasks:
 <ul>
   <li>Build an automated tool to create and populate a dataset of companies that have potential to partner with Understood.org.</li>
-  <li>Build logic for Understood.org to score how closely each company aligns with their mission statement.<\li>
+  <li>Build logic for Understood.org to score how closely each company aligns with their mission statement.</li>
   <li>Your approach should be built with latency in mind although the way you score how each company aligns with Understood is up to you.</li>
   <li>Feel free to explore the content of the websites of the companies you look at. NLP projects may flourish here.</li>
 </ul>
@@ -40,11 +40,11 @@ Examples of companies who do not align with Understood's mission statement:Exxon
 
 ### Scoring
 <ul>
-  <li>How many useful entities (rows) and features (columns) can you bring to the dataset?<\li>
-  <li>Is the information usable in the long term? Can it be refreshed as it gets outdated?<\li>
-  <li>Latency of your model<\li>
-  <li>Can you identify for-profit and non-profit entities that are aligned with Understood.org's mission?<\li>
-  <li>Can you identify how close<\li>
+  <li>How many useful entities (rows) and features (columns) can you bring to the dataset?</li>
+  <li>Is the information usable in the long term? Can it be refreshed as it gets outdated?</li>
+  <li>Latency of your model</li>
+  <li>Can you identify for-profit and non-profit entities that are aligned with Understood.org's mission?</li>
+  <li>Can you identify how close</li>
 </ul>
   
 ### Submission

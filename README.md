@@ -39,11 +39,13 @@ Examples of companies who align with Understood's mission statement: National Ce
 Examples of companies who do not align with Understood's mission statement:Exxon Mobile
 
 ### Scoring
-  How many useful entities (rows) and features (columns) can you bring to the dataset?</br>
-  Is the information usable in the long term? Can it be refreshed as it gets outdated?</br>
-  Latency of your model</br>
-  Can you identify for-profit and non-profit entities that are aligned with Understood.org's mission?
-  Can you identify how close 
+<ul>
+  <li>How many useful entities (rows) and features (columns) can you bring to the dataset?<\li>
+  <li>Is the information usable in the long term? Can it be refreshed as it gets outdated?<\li>
+  <li>Latency of your model<\li>
+  <li>Can you identify for-profit and non-profit entities that are aligned with Understood.org's mission?<\li>
+  <li>Can you identify how close<\li>
+</ul>
   
 ### Submission
 Submissions will ideally be in a csv format.

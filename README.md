@@ -10,7 +10,31 @@ In association with Understood.org
 
 #### This webpage will continuously be updated so please check back soon for more details.
 
-<br>
+
+### Datathon Primary Directive </br>
+Build an automated tool to create and populate a dataset of companies that have potential to partner with Understood.org.<br>
+Build logic for Understood.org to score how closely each company aligns with their mission statement.</br>
+Your approach should be built with latency in mind although the way you score how each company aligns with Understood is up to you.</br>
+Feel free to explore the content of the websites of the companies you look at. NLP projects may flourish here.</br>
+When adding features, make sure to pick 
+Feel free to use any data and coding language at your disposal. Some sample websites where data can be found are listed below:</br>
+https://nonprofit.linkedin.com/ </br>
+https://projects.propublica.org/nonprofits/ </br>
+Examples of companies who align with Understood's mission statement: </br>
+National Center for Learning Disabilities.</br>
+Examples of companies who do not align with Understood's mission statement:</br>
+Exxon Mobile</br>
+
+### Scoring
+  How many entities (rows) and features (columns) can you bring to the dataset?</br>
+  Is the information usable in the long term? Can it be refreshed as it gets outdated?</br>
+  Latency of your model</br>
+  Can you identify for-profit and non-profit entities that are aligned with Understood.org's mission?
+  
+  
+### Submission
+Submissions will ideally be in a csv format.
+
 ### Team Information
 
 <a href="https://docs.google.com/spreadsheets/d/1Xo-U0M5wEJKf6N-1oRNrUMldX2mDXP2sQOH-N1oqBPw/edit#gid=0"> Team List </a>

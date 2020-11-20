@@ -44,7 +44,7 @@ Examples of companies who do not align with Understood's mission statement:Exxon
   <li>Is the information usable in the long term? Can it be refreshed as it gets outdated?</li>
   <li>Latency of your model</li>
   <li>Can you identify for-profit and non-profit entities that are aligned with Understood.org's mission?</li>
-  <li>Can you identify how close</li>
+  <li>Can you identify how close each company is to Understood's mission</li>
 </ul>
   
 ### Submission

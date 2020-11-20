@@ -15,8 +15,8 @@ In association with Understood.org
 Tasks:
 <ul>
   <li>Build an automated tool to create and populate a dataset of companies that have potential to partner with Understood.org.</li>
-  <li>Build logic for Understood.org to score how closely each company aligns with their mission statement.
-<li>Your approach should be built with latency in mind although the way you score how each company aligns with Understood is up to you.</li>
+  <li>Build logic for Understood.org to score how closely each company aligns with their mission statement.<\li>
+  <li>Your approach should be built with latency in mind although the way you score how each company aligns with Understood is up to you.</li>
   <li>Feel free to explore the content of the websites of the companies you look at. NLP projects may flourish here.</li>
 </ul>
 

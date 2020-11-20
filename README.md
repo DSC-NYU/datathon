@@ -12,6 +12,7 @@ In association with Understood.org
 
 
 ### Datathon Primary Directive 
+Tasks:
 <ul>
   <li>Build an automated tool to create and populate a dataset of companies that have potential to partner with Understood.org.</li>
   <li>Build logic for Understood.org to score how closely each company aligns with their mission statement.

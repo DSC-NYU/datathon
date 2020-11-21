@@ -492,7 +492,7 @@ The event will be 27 hours starting at 2pm EST on Friday 11/20 and submissions w
 <details>
 <summary>Where is the event being held?</summary>
 <br>
-The event will be virtual with all necessary information on this Github page. The workshop for this will be streamed on Youtube $check_back_for_the_workshop_link$ and can also be found embedded on this page. All other activities will be held on the Zoom for the event at $check_back_for_the_final_zoom_link$. This is where we will first assemble at 2pm EST on Friday where Understood.org staff will kick off the event. All meetings with event organizers and support staff will be through this Zoom call which will be on for the whole 27 hours. Breakout rooms for each team will also be available for the duration of the event, so you and your members can use the breakout rooms to collaborate and pop in and out of the general lobby to ask questions or to join the fun social events. Basically – you and your team can work in the breakout rooms of the same call, and then chill or ask questions in the general meeting room of the same link.
+The event will be virtual with all necessary information on this Github page. The workshop for this will be on Youtube <a href="https://www.youtube.com/watch?v=NPyhsKqDTsg&list=PLsiLeTyijyvo1wXj5lQ7VZA9WQJ7DFzoV&index=1"> here. </a> and can also be found embedded on this page. All other activities will be held on the Zoom for the event at <a href="http://nyu.zoom.us/my/as11919"> here. </a> This is where we will first assemble at 2pm EST on Friday where Understood.org staff will kick off the event. All meetings with event organizers and support staff will be through this Zoom call which will be on for the whole 27 hours. Breakout rooms for each team will also be available for the duration of the event, so you and your members can use the breakout rooms to collaborate and pop in and out of the general lobby to ask questions or to join the fun social events. Basically – you and your team can work in the breakout rooms of the same call, and then chill or ask questions in the general meeting room of the same link.
 <br>
 ----------------------------------------------------------------------------
 <br>
@@ -510,7 +510,7 @@ This event is a 3-way collaboration between Data Science Club @ NYU, Understood.
 <details>
 <summary>Where is the workshop being held?</summary>
 <br>
-The workshop will be uploaded Friday 11/20 night on Youtube at $check_back_for_final_link$. If you have any questions about the content of the workshop feel free to message the "ask-a-librarian" channel on Slack. There will be someone available to answer any questions that may arise. Tech/workshop-related questions will be answered by our Data Science Specialist Librarian Vicky Steeves between 8-9pm ET on Friday and 11am-12pm on Saturday. Other times, the DSC E-board and CDS graduate students may help you out. 
+The workshop will be uploaded Friday 11/20 night on Youtube at . A text version of the "collaborating on github" workshop has also been provided <a href="https://vickysteeves.gitlab.io/collaborating-with-git/index.html"> here. </a>If you have any questions about the content of the workshop feel free to message the "ask-a-librarian" channel on Slack. Tech/workshop-related questions will be answered by our Data Science Specialist Librarian Vicky Steeves between 8-9pm ET on Friday and 11am-12pm on Saturday. Other times, the DSC E-board and CDS graduate students may help you out. 
 <br>
 ----------------------------------------------------------------------------
 <br>

@@ -202,7 +202,7 @@ Submissions will ideally be in a csv format.
   </tr>
   <tr>
     <td>15:00</td>
-    <td>Aditya, Kenan, Ethan, Areeb</td>
+    <td>Aditya, Kenan, Ethan</td>
     <td>Understood.org Staff</td>
     <td>Reema</td>
     <td></td>
@@ -210,7 +210,7 @@ Submissions will ideally be in a csv format.
   </tr>
   <tr>
     <td>16:00</td>
-    <td>Aditya, Kenan, Ethan, Areeb</td>
+    <td>Aditya, Kenan, Ethan</td>
     <td></td>
     <td>Reema</td>
     <td></td>
@@ -218,7 +218,7 @@ Submissions will ideally be in a csv format.
   </tr>
   <tr>
     <td>17:00</td>
-    <td>Aditya, Kenan, Ethan, Areeb</td>
+    <td>Aditya, Kenan, Ethan</td>
     <td></td>
     <td>Reema</td>
     <td></td>

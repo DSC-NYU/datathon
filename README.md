@@ -26,7 +26,7 @@ Tasks:
 <br>
 Feel free to use any data and coding language at your disposal. Some sample websites where data can be found are listed below:
 <ul>
-  <li>https://nonprofit.linkedin.com/</li>
+  <!--- <li>https://nonprofit.linkedin.com/</li> --->
   <li>https://projects.propublica.org/nonprofits/ </li>
   <li>https://www.globallearninglandscape.org/ </li>
   <li>https://www.sec.gov/edgar.shtml </li>

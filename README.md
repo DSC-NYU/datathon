@@ -379,7 +379,7 @@ Closing Remarks
   </tr>
   <tr>
     <td>10:00</td>
-    <td>Olivia, Mindy</td>
+    <td>Olivia, Mindy, Areeb</td>
     <td></td>
     <td></td>
     <td>Anu-Ujin Gerelt-Od</td>

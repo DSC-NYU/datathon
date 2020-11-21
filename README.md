@@ -283,7 +283,7 @@ The Current Database - by the Understood Team
   </tr>
   <tr>
     <td>00:00</td>
-    <td>Kenan, Olivia, Mindy, Areeb</td>
+    <td>Kenan, Olivia, Mindy</td>
     <td></td>
     <td></td>
     <td></td>
@@ -291,7 +291,7 @@ The Current Database - by the Understood Team
   </tr>
   <tr>
     <td>01:00</td>
-    <td>Kenan, Olivia, Mindy, Areeb</td>
+    <td>Kenan, Olivia, Mindy</td>
     <td></td>
     <td></td>
     <td></td>

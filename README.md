@@ -510,7 +510,7 @@ This event is a 3-way collaboration between Data Science Club @ NYU, Understood.
 <details>
 <summary>Where is the workshop being held?</summary>
 <br>
-The workshop will be uploaded Friday 11/20 night on Youtube at . A text version of the "collaborating on github" workshop has also been provided <a href="https://vickysteeves.gitlab.io/collaborating-with-git/index.html"> here. </a>If you have any questions about the content of the workshop feel free to message the "ask-a-librarian" channel on Slack. Tech/workshop-related questions will be answered by our Data Science Specialist Librarian Vicky Steeves between 8-9pm ET on Friday and 11am-12pm on Saturday. Other times, the DSC E-board and CDS graduate students may help you out. 
+The workshop will be uploaded Friday 11/20 night on Youtube <a href="https://www.youtube.com/watch?v=NPyhsKqDTsg&list=PLsiLeTyijyvo1wXj5lQ7VZA9WQJ7DFzoV&index=1"> here. </a>. A text version of the "collaborating on github" workshop has also been provided <a href="https://vickysteeves.gitlab.io/collaborating-with-git/index.html"> here. </a>If you have any questions about the content of the workshop feel free to message the "ask-a-librarian" channel on Slack. Tech/workshop-related questions will be answered by our Data Science Specialist Librarian Vicky Steeves between 8-9pm ET on Friday and 11am-12pm on Saturday. Other times, the DSC E-board and CDS graduate students may help you out. 
 <br>
 ----------------------------------------------------------------------------
 <br>

@@ -184,14 +184,28 @@ Submissions will ideally be in a csv format.
 ### Datathon Day 1
 Kick-off!
 <iframe src="https://player.vimeo.com/video/481944686" width="560" height="315" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<br>
 Introduction to the Understood Team
 <iframe src="https://player.vimeo.com/video/481945930" width="560" height="315" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<br>
 Evaluation Criteria - by the Understood Team
 <iframe src="https://player.vimeo.com/video/481945615" width="560" height="315" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<br>
 The Current Database - by the Understood Team
 <iframe src="https://player.vimeo.com/video/481947159" width="560" height="315" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<br>
 The Task - by the Understood Team
 <iframe src="https://player.vimeo.com/video/481949909" width="560" height="315" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<br>
+Company Examples
+<iframe src="https://player.vimeo.com/video/481950606" width="560" height="315" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<br>
+Q&A and General Guidance (Highly Recommended)
+<iframe src="https://player.vimeo.com/video/481959593" width="560" height="315" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<br>
+Closing Remarks
+<iframe src="https://player.vimeo.com/video/481962731" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<br>
 <br>
 ### Support Staff Schedule
 <table>

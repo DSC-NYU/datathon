@@ -422,7 +422,7 @@ Closing Remarks
     <td>Aditya, Kenan, Ethan</td>
     <td></td>
     <td>Reema</td>
-    <td></td>
+    <td>Christina Dominguez</td>
     <td></td>
   </tr>
   <tr>
